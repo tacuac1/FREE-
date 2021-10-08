@@ -5,7 +5,7 @@ on:
     inputs:
       chrome_access_code:
         description: https://remotedesktop.google.com/headless
-        required: true
+        required: true 
       pin:
         description: Enter your 6 numbers pin
         required: true
